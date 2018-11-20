@@ -2,6 +2,6 @@
 
 Temi Telegram per Client Android  📱
 
-![themes](assets/themes.jpg)
+![themes](assets/themes_readme.png)
 
 Segui anche 👉 https://t.me/RedThemes
